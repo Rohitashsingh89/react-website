@@ -12,5 +12,7 @@
 ![image](https://github.com/Rohitashsingh89/react-website/assets/93479842/80ce7a8e-8333-4485-ab58-217afd6a90f0)
 
 <img width="328" alt="image" src="https://github.com/Rohitashsingh89/react-website/assets/93479842/884b995b-b0c2-40ab-ae5e-72b907bbcf26">
+
 ![home](https://github.com/Rohitashsingh89/react-website/assets/93479842/6c4246af-5a1e-4145-8b30-14ec275e9369)
+
 ![about](https://github.com/Rohitashsingh89/react-website/assets/93479842/69c1deac-554b-4145-85d5-418f34423477)
